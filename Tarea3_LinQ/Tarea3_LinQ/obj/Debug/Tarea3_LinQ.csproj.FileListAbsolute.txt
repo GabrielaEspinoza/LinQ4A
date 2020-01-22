@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Tarea3_LinQ\Tarea3_LinQ\bin\Debug\Tarea3_LinQ.exe.config
+C:\Users\ASUS\source\repos\Tarea3_LinQ\Tarea3_LinQ\bin\Debug\Tarea3_LinQ.exe
+C:\Users\ASUS\source\repos\Tarea3_LinQ\Tarea3_LinQ\bin\Debug\Tarea3_LinQ.pdb
+C:\Users\ASUS\source\repos\Tarea3_LinQ\Tarea3_LinQ\obj\Debug\Tarea3_LinQ.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Tarea3_LinQ\Tarea3_LinQ\obj\Debug\Tarea3_LinQ.exe
+C:\Users\ASUS\source\repos\Tarea3_LinQ\Tarea3_LinQ\obj\Debug\Tarea3_LinQ.pdb
