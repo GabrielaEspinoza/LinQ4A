@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\LinQ2\LinQ2\bin\Debug\LinQ2.exe.config
+C:\Users\kevme\source\repos\LinQ2\LinQ2\bin\Debug\LinQ2.exe
+C:\Users\kevme\source\repos\LinQ2\LinQ2\bin\Debug\LinQ2.pdb
+C:\Users\kevme\source\repos\LinQ2\LinQ2\obj\Debug\LinQ2.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\LinQ2\LinQ2\obj\Debug\LinQ2.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\LinQ2\LinQ2\obj\Debug\LinQ2.exe
+C:\Users\kevme\source\repos\LinQ2\LinQ2\obj\Debug\LinQ2.pdb
